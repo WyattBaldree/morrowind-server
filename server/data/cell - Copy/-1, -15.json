@@ -1,0 +1,30 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1555384256,
+    "description":"-1, -15"
+  },
+  "lastVisit":{
+    "Fendryn":1555384293
+  },
+  "recordLinks":[],
+  "objectData":[]
+}

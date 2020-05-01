@@ -1,0 +1,30 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1569137466,
+    "description":"12, -15"
+  },
+  "lastVisit":{
+    "Tanis":1569266734
+  },
+  "recordLinks":[],
+  "objectData":[]
+}

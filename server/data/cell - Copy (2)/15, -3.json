@@ -1,0 +1,31 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1569452951,
+    "description":"15, -3"
+  },
+  "lastVisit":{
+    "Dizzy":1569456622
+  },
+  "recordLinks":[],
+  "objectData":{
+  }
+}

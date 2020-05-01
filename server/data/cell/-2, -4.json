@@ -1,0 +1,39 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1577768057,
+    "description":"-2, -4"
+  },
+  "lastVisit":{
+    "orphanedgodzilla":1577772268,
+    "Jeff":1588222041,
+    "DizzyDasher":1587713183,
+    "Rick Harrison":1587853566,
+    "Dizzy":1587712390,
+    "Bizz":1587852778,
+    "Deniella":1577768466,
+    "Spear":1588221892,
+    "Orphanedgodzilla":1577768967
+  },
+  "recordLinks":[],
+  "objectData":{
+  }
+}

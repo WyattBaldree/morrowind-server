@@ -1,0 +1,149 @@
+{
+  "packets":{
+    "actorList":["0-2405"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["0-2405"],
+    "death":["0-2405"],
+    "delete":[],
+    "doorState":[],
+    "equipment":["0-2405"],
+    "lock":[],
+    "place":[],
+    "position":["0-2405"],
+    "scale":[],
+    "spawn":["0-2405"],
+    "state":["249561-0","249562-0","193160-0"],
+    "statsDynamic":["0-2405"],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1554678472,
+    "description":"Nchuleftingth, Test of Pattern"
+  },
+  "lastVisit":{
+    "Fendryn":1554678839
+  },
+  "recordLinks":[],
+  "objectData":{
+    "249561-0":{
+      "refId":"steam_nchuleftingth_02",
+      "state":false
+    },
+    "0-2405":{
+      "refId":"db_assassin3",
+      "location":{
+        "posX":197.77781677246,
+        "posZ":-191,
+        "posY":-28.59317779541,
+        "rotX":0.00017565302550793,
+        "rotY":0,
+        "rotZ":1.6906769275665
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":154,
+        "healthModified":141,
+        "fatigueBase":276,
+        "fatigueModified":276,
+        "healthBase":141,
+        "magickaModified":154,
+        "magickaBase":154,
+        "fatigueCurrent":266.98107910156
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ebony dart_db_unique",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Fendryn"
+      }
+    },
+    "249562-0":{
+      "refId":"steam_nchuleftingth_01",
+      "state":false
+    },
+    "193160-0":{
+      "refId":"in_dwrv_wall_nchuleftingth1",
+      "state":false
+    }
+  }
+}

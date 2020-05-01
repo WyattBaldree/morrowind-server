@@ -1,0 +1,45 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["403208-0","403212-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1568771659,
+    "description":"-11, 17"
+  },
+  "lastVisit":{
+    "Tanis":1568869547
+  },
+  "recordLinks":[],
+  "objectData":{
+    "403212-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "403208-0":{
+      "refId":"kollop_01_pearl",
+      "inventory":[]
+    }
+  }
+}

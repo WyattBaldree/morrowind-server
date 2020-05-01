@@ -1,0 +1,33 @@
+{
+  "general":{
+    "currentGeneratedNum":3
+  },
+  "permanentRecords":[],
+  "generatedRecords":{
+    "$custom_weapon_2":{
+      "baseId":"daedric longsword",
+      "name":"420BlazeIt",
+      "enchantmentCharge":200,
+      "enchantmentId":"$custom_enchantment_19"
+    },
+    "$custom_weapon_3":{
+      "baseId":"daedric katana",
+      "name":"Daedric Katana Of Yagging",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_30"
+    }
+  },
+  "recordLinks":{
+    "$custom_weapon_2":{
+      "players":[],
+      "cells":["Balmora, Hlaalo Manor"]
+    },
+    "$custom_weapon_1":{
+      "players":["Tanis"]
+    },
+    "$custom_weapon_3":{
+      "players":["Dr,Kups"],
+      "cells":[]
+    }
+  }
+}

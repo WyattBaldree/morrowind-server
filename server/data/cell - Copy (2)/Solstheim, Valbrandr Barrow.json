@@ -1,0 +1,206 @@
+{
+  "packets":{
+    "actorList":["9060-0"],
+    "ai":[],
+    "cellChangeFrom":["9060-0"],
+    "cellChangeTo":[],
+    "container":["9060-0"],
+    "death":[],
+    "delete":["30418-0","30419-0","30420-0","30417-0","30416-0"],
+    "doorState":[],
+    "equipment":["9060-0"],
+    "lock":[],
+    "place":[],
+    "position":["9060-0"],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":["9060-0"],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1568868431,
+    "description":"Solstheim, Valbrandr Barrow"
+  },
+  "lastVisit":{
+    "whisker":1568868448,
+    "Tanis":1568940902,
+    "Dizzy":1568868575
+  },
+  "recordLinks":[],
+  "objectData":{
+    "30418-0":{
+      "refId":"gold_025"
+    },
+    "9060-0":{
+      "refId":"ingmar",
+      "location":{
+        "posX":4169.1879882813,
+        "posZ":15940.3046875,
+        "posY":4348.5893554688,
+        "rotX":0.51582789421082,
+        "rotY":-2.6834418773651,
+        "rotZ":-0.3790819644928
+      },
+      "stats":{
+        "healthCurrent":184.03460693359,
+        "magickaCurrent":74,
+        "fatigueModified":260,
+        "fatigueBase":260,
+        "healthBase":200,
+        "healthModified":200,
+        "magickaModified":74,
+        "magickaBase":74,
+        "fatigueCurrent":260
+      },
+      "cellChangeFrom":"-20, 20",
+      "equipment":{
+        "0":{
+          "refId":"bm bear helmet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"bm bear greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"bm bear left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"bm bear right pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"common_pants_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"bm bear left pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"bm bear boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"bm bear cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"solvistapp",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"bm bear right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"bm bear right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bm bear left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bm bear boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bm bear greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bm bear right pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bm bear left pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bm bear cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bm bear helmet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"solvistapp",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "30420-0":{
+      "refId":"gold_010"
+    },
+    "30419-0":{
+      "refId":"gold_005"
+    },
+    "30416-0":{
+      "refId":"amulet of shield"
+    },
+    "30417-0":{
+      "refId":"gold_100"
+    }
+  }
+}

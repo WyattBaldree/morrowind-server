@@ -1,0 +1,32 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1569003057,
+    "description":"Falasmaryon, Propylon Chamber"
+  },
+  "lastVisit":{
+    "Dizzy":1569003218,
+    "Tanis":1569003188,
+    "Dr,Kups":1569003219
+  },
+  "recordLinks":[],
+  "objectData":[]
+}

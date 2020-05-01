@@ -1,0 +1,42 @@
+{
+  "packets":{
+    "actorList":["0-3137"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":["0-3137"],
+    "scale":[],
+    "spawn":["0-3137"],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1554779433,
+    "description":"21, -7"
+  },
+  "lastVisit":{
+    "Fendryn":1554779487
+  },
+  "recordLinks":[],
+  "objectData":{
+    "0-3137":{
+      "refId":"dreugh",
+      "location":{
+        "posX":172078.125,
+        "posZ":-514.18981933594,
+        "posY":-51954.6015625,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":0.43083882331848
+      }
+    }
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "login":{
+    "name":"The Luch",
+    "password":"yag"
+  },
+  "settings":{
+    "difficulty":"default",
+    "enforcedLogLevel":"default",
+    "physicsFramerate":"default",
+    "consoleAllowed":"default",
+    "bedRestAllowed":"default",
+    "wildernessRestAllowed":"default",
+    "waitAllowed":"default",
+    "staffRank":0
+  },
+  "character":{
+    "gender":0,
+    "race":"wood elf",
+    "head":"_mca_head_suriel",
+    "hair":"b_n_wood elf_f_hair_04",
+    "class":"custom",
+    "birthsign":"mooncalf"
+  },
+  "customClass":{
+    "specialization":2,
+    "minorSkills":"Athletics, Mediumarmor, Acrobatics, Mercantile, Illusion",
+    "majorAttributes":"Agility, Luck",
+    "name":"The Luch",
+    "majorSkills":"Speechcraft, Sneak, Shortblade, Marksman, Security",
+    "description":""
+  },
+  "location":{
+    "cell":"3, -8",
+    "posX":24944.65625,
+    "posY":-65026.5703125,
+    "posZ":918.84948730469,
+    "rotX":0.234375,
+    "rotZ":0.051300287246704,
+    "regionName":"ascadian isles region"
+  },
+  "stats":{
+    "healthBase":51,
+    "healthCurrent":50.166595458984,
+    "magickaBase":40,
+    "magickaCurrent":40,
+    "fatigueBase":204,
+    "fatigueCurrent":12.172448158264,
+    "level":8,
+    "levelProgress":16
+  },
+  "fame":{
+    "reputation":0,
+    "bounty":5
+  },
+  "shapeshift":{
+    "isWerewolf":false,
+    "scale":1,
+    "displayCreatureName":false,
+    "creatureRefId":""
+  },
+  "attributes":{
+    "Strength":52,
+    "Agility":67,
+    "Willpower":30,
+    "Speed":67,
+    "Intelligence":40,
+    "Endurance":30,
+    "Luck":51,
+    "Personality":40
+  },
+  "attributeSkillIncreases":{
+    "Strength":8,
+    "Agility":0,
+    "Willpower":0,
+    "Speed":5,
+    "Intelligence":0,
+    "Endurance":1,
+    "Luck":0,
+    "Personality":0
+  },
+  "skills":{
+    "Block":4,
+    "Alchemy":10,
+    "Restoration":3,
+    "Conjuration":3,
+    "Marksman":50,
+    "Handtohand":9,
+    "Shortblade":48,
+    "Heavyarmor":5,
+    "Bluntweapon":3,
+    "Alteration":5,
+    "Enchant":4,
+    "Sneak":45,
+    "Lightarmor":20,
+    "Athletics":20,
+    "Armorer":3,
+    "Speechcraft":34,
+    "Axe":5,
+    "Security":34,
+    "Acrobatics":87,
+    "Destruction":1,
+    "Longblade":5,
+    "Illusion":14,
+    "Mysticism":5,
+    "Spear":5,
+    "Mediumarmor":17,
+    "Mercantile":18,
+    "Unarmored":10
+  },
+  "skillProgress":{
+    "Block":0,
+    "Alchemy":0,
+    "Restoration":0,
+    "Conjuration":0,
+    "Marksman":17,
+    "Handtohand":4,
+    "Shortblade":13.5,
+    "Heavyarmor":0,
+    "Bluntweapon":0,
+    "Alteration":0,
+    "Enchant":0,
+    "Sneak":1,
+    "Lightarmor":6,
+    "Athletics":7.6299967765808,
+    "Armorer":0,
+    "Speechcraft":0,
+    "Axe":0,
+    "Security":0,
+    "Acrobatics":23.099966049194,
+    "Destruction":0,
+    "Longblade":0,
+    "Illusion":0,
+    "Mysticism":0,
+    "Spear":0,
+    "Mediumarmor":14,
+    "Mercantile":0,
+    "Unarmored":1
+  },
+  "recordLinks":{
+    "potion":[]
+  },
+  "equipment":{
+    "0":{
+      "enchantmentCharge":-1,
+      "count":1,
+      "refId":"indoril helmet",
+      "charge":-1
+    },
+    "1":{
+      "enchantmentCharge":-1,
+      "count":1,
+      "refId":"indoril cuirass",
+      "charge":1335
+    },
+    "2":{
+      "enchantmentCharge":-1,
+      "count":1,
+      "refId":"bonemold_greaves",
+      "charge":-1
+    },
+    "3":{
+      "enchantmentCharge":-1,
+      "count":1,
+      "refId":"indoril pauldron left",
+      "charge":431
+    },
+    "4":{
+      "enchantmentCharge":-1,
+      "count":1,
+      "refId":"indoril pauldron right",
+      "charge":441
+    },
+    "5":{
+      "enchantmentCharge":-1,
+      "count":1,
+      "refId":"indoril left gauntlet",
+      "charge":224
+    },
+    "6":{
+      "enchantmentCharge":-1,
+      "count":1,
+      "refId":"indoril right gauntlet",
+      "charge":-1
+    },
+    "7":{
+      "enchantmentCharge":-1,
+      "count":1,
+      "refId":"indoril boots",
+      "charge":416
+    },
+    "11":{
+      "enchantmentCharge":-1,
+      "count":1,
+      "refId":"frostmirror robe",
+      "charge":-1
+    },
+    "12":{
+      "enchantmentCharge":-1,
+      "count":1,
+      "refId":"caius_ring",
+      "charge":-1
+    },
+    "13":{
+      "enchantmentCharge":-1,
+      "count":1,
+      "refId":"shadowweave ring",
+      "charge":-1
+    },
+    "16":{
+      "enchantmentCharge":-1,
+      "count":1,
+      "refId":"daedric wakizashi",
+      "charge":744
+    }
+  },
+  "inventory":[{
+      "refId":"caius_ring",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"indoril left gauntlet",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"indoril pauldron left",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"sc_fphyggisgemfeeder",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"glass jinkblade",
+      "enchantmentCharge":7.8970465660095,
+      "count":1,
+      "charge":319,
+      "soul":""
+    },{
+      "refId":"chitin throwing star",
+      "enchantmentCharge":-1,
+      "count":19,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"sc_paper plain",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"iron spider dagger",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"iron arrow",
+      "enchantmentCharge":-1,
+      "count":250,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"key_drarayne_thelas",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"bk_a1_1_caiuspackage",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"indoril right gauntlet",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"daedric wakizashi",
+      "enchantmentCharge":-1,
+      "count":2,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"ebony dart_db_unique",
+      "enchantmentCharge":-1,
+      "count":8,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"cruel viperarrow",
+      "enchantmentCharge":-1,
+      "count":20,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"gold_001",
+      "enchantmentCharge":-1,
+      "count":2763,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"bonemold_greaves",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"indoril cuirass",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"shadowweave ring",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"indoril boots",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":417,
+      "soul":""
+    },{
+      "refId":"indoril helmet",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"indoril pauldron right",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"iron throwing knife",
+      "enchantmentCharge":-1,
+      "count":38,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"silver dart",
+      "enchantmentCharge":-1,
+      "count":51,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"steel dart",
+      "enchantmentCharge":-1,
+      "count":50,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"frostmirror robe",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":-1,
+      "soul":""
+    },{
+      "refId":"second barrier ring",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":-1,
+      "soul":""
+    }],
+  "spellbook":[],
+  "books":[],
+  "factionRanks":[],
+  "factionReputation":[],
+  "factionExpulsion":[],
+  "mapExplored":["-3, -2","-2, -2","-4, -2","-1, -3","-1, -2","-2, -3","-3, -3","-4, -3","-4, -4","-3, -4","-2, -9","-1, -9","-2, -4","-1, -4","0, -4","0, -3","1, -3","2, -3","-3, 6","-2, 6","-9, 16","-8, 16","-8, 15","-7, 15","-11, 10","-11, 11","-8, 17","-7, 17","-7, 18","-6, 18","-5, 18","-5, 17","-4, 18","-4, 17","-3, 17","-3, 18","-2, 17","-1, 17","0, 17","1, 17","2, 17","3, 17","4, 17","4, 16","5, 16","5, 15","6, 15","7, 15","7, 14","7, 13","6, 13","6, 12","5, 12","6, 11","6, 10","7, 10","8, 10","8, 9","9, 10","9, 9","-2, 5","-1, 5","3, -9","3, -10","4, -10","3, -11","4, -11","4, -12","5, -11","1, -13","2, -13","2, -12","2, -11","3, -12","1, -12","2, -10","2, -9","2, -8","3, -8"],
+  "ipAddresses":["50.88.25.3"],
+  "customVariables":{
+    "lastFixMe":1554179575
+  },
+  "journal":[],
+  "miscellaneous":{
+    "markLocation":{
+      "cell":"",
+      "posX":0,
+      "posY":0,
+      "posZ":0,
+      "rotX":0,
+      "rotZ":0
+    },
+    "selectedSpell":""
+  },
+  "topics":[],
+  "quickKeys":[]
+}

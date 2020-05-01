@@ -1,0 +1,717 @@
+{
+  "packets":{
+    "actorList":["0-2651","0-2652","0-2831","0-2832","0-2833","0-2834","0-2835","0-2836"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":["369110-0"],
+    "container":["288469-0","288480-0","288488-0","0-2651","0-2831","0-2832","0-2833"],
+    "death":["0-2651","0-2831","0-2832","0-2833"],
+    "delete":[],
+    "doorState":[],
+    "equipment":["0-2831","0-2832","0-2833","0-2835","0-2836"],
+    "lock":[],
+    "place":[],
+    "position":["0-2651","0-2652","0-2831","0-2832","0-2833","0-2834","0-2835","0-2836"],
+    "scale":[],
+    "spawn":["0-2651","0-2652","0-2831","0-2832","0-2833","0-2834","0-2835","0-2836"],
+    "state":[],
+    "statsDynamic":["0-2651","0-2652","0-2831","0-2832","0-2833","0-2834","0-2835","0-2836"],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1554687140,
+    "description":"17, -6"
+  },
+  "lastVisit":{
+    "Den":1554696791,
+    "Fendryn":1554696904
+  },
+  "recordLinks":[],
+  "objectData":{
+    "0-2651":{
+      "refId":"netch_betty",
+      "location":{
+        "posX":142429.625,
+        "posZ":2695.869140625,
+        "posY":-44663.80078125,
+        "rotX":0.11826369166374,
+        "rotY":0,
+        "rotZ":2.2244899272919
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":75,
+        "healthModified":113,
+        "fatigueBase":500,
+        "fatigueModified":500,
+        "healthBase":113,
+        "magickaModified":75,
+        "magickaBase":75,
+        "fatigueCurrent":500
+      },
+      "inventory":[{
+          "refId":"ingred_netch_leather_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Den"
+      }
+    },
+    "0-2832":{
+      "refId":"db_assassin3",
+      "location":{
+        "posX":142964.59375,
+        "posZ":2536.6479492188,
+        "posY":-44705.96875,
+        "rotX":0.15472960472107,
+        "rotY":0,
+        "rotZ":0.64003729820251
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":154,
+        "healthModified":141,
+        "fatigueBase":276,
+        "fatigueModified":276,
+        "healthBase":141,
+        "magickaModified":154,
+        "magickaBase":154,
+        "fatigueCurrent":264.0012512207
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ebony dart_db_unique",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Fendryn"
+      }
+    },
+    "369110-0":{
+      "cellChangeTo":"Nchurdamz, Interior"
+    },
+    "0-2835":{
+      "refId":"db_assassin3",
+      "location":{
+        "posX":145498.21875,
+        "posZ":3253.5415039063,
+        "posY":-45986.30859375,
+        "rotX":-0.41621261835098,
+        "rotY":0,
+        "rotZ":1.695009469986
+      },
+      "stats":{
+        "healthCurrent":141,
+        "magickaCurrent":154,
+        "healthModified":141,
+        "fatigueBase":276,
+        "fatigueModified":276,
+        "healthBase":141,
+        "magickaModified":154,
+        "magickaBase":154,
+        "fatigueCurrent":246.04309082031
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      }
+    },
+    "288480-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "0-2836":{
+      "refId":"db_assassin3",
+      "location":{
+        "posX":145563.515625,
+        "posZ":3255.1982421875,
+        "posY":-45919.16796875,
+        "rotX":-0.47971215844154,
+        "rotY":0,
+        "rotZ":2.4432632923126
+      },
+      "stats":{
+        "healthCurrent":141,
+        "magickaCurrent":154,
+        "healthModified":141,
+        "fatigueBase":276,
+        "fatigueModified":276,
+        "healthBase":141,
+        "magickaModified":154,
+        "magickaBase":154,
+        "fatigueCurrent":238.19743347168
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      }
+    },
+    "0-2833":{
+      "refId":"db_assassin3",
+      "location":{
+        "posX":143382.9375,
+        "posZ":2452.9008789063,
+        "posY":-44145.51171875,
+        "rotX":0.092514008283615,
+        "rotY":0,
+        "rotZ":1.3801543712616
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":154,
+        "healthModified":141,
+        "fatigueBase":276,
+        "fatigueModified":276,
+        "healthBase":141,
+        "magickaModified":154,
+        "magickaBase":154,
+        "fatigueCurrent":258.51968383789
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ebony dart_db_unique",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Fendryn"
+      }
+    },
+    "288469-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "288488-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-2831":{
+      "refId":"db_assassin3",
+      "location":{
+        "posX":143944.71875,
+        "posZ":2525.8383789063,
+        "posY":-44906.2109375,
+        "rotX":-0.066919878125191,
+        "rotY":0,
+        "rotZ":1.0900437831879
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":154,
+        "healthModified":141,
+        "fatigueBase":276,
+        "fatigueModified":276,
+        "healthBase":141,
+        "magickaModified":154,
+        "magickaBase":154,
+        "fatigueCurrent":260.01217651367
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ebony dart_db_unique",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Fendryn"
+      }
+    },
+    "0-2652":{
+      "refId":"rat",
+      "location":{
+        "posX":146250.40625,
+        "posZ":2501.4157714844,
+        "posY":-44363.8046875,
+        "rotX":-1.4294539690018,
+        "rotY":0,
+        "rotZ":-0.089142084121704
+      },
+      "stats":{
+        "healthCurrent":23,
+        "magickaCurrent":10,
+        "healthModified":23,
+        "fatigueBase":300,
+        "fatigueModified":300,
+        "healthBase":23,
+        "magickaModified":10,
+        "magickaBase":10,
+        "fatigueCurrent":300
+      }
+    },
+    "0-2834":{
+      "refId":"shalk",
+      "location":{
+        "posX":144760.5625,
+        "posZ":2735.142578125,
+        "posY":-45302.3359375,
+        "rotX":-0.47117632627487,
+        "rotY":0,
+        "rotZ":2.2549827098846
+      },
+      "stats":{
+        "healthCurrent":38,
+        "magickaCurrent":25,
+        "healthModified":38,
+        "fatigueBase":400,
+        "fatigueModified":400,
+        "healthBase":38,
+        "magickaModified":30,
+        "magickaBase":30,
+        "fatigueCurrent":378.89691162109
+      }
+    }
+  }
+}

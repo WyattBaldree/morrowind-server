@@ -1,0 +1,43 @@
+Menus["warp"] = {
+    text = color.Orange .. "Warp Commands:\n" ..
+        color.Yellow .. "/warplist \n" ..
+            color.White .. "Prints a list of your private and the public warps into chat" ..
+        color.Yellow .. "/warp ( warp name ) \n" ..
+            color.White .. "Warp yourself to a warp with the provided name.\n" ..
+        color.Yellow .. "/setwarp ( warp name ) \n" ..
+            color.White .. "Send a message that only players in your area can read " ..
+            color.Yellow .. "(/l)\n" ..
+        color.Yellow .. "/setpublicwarp ( warp name )" ..
+            color.White .. "List all players on the server\n" ..
+        color.Yellow .. "/removewarp ( warp name ) \n" ..
+            color.White .. "Play an animation on yourself, with a list of valid inputs being provided " ..
+            "if you use an invalid one " ..
+            color.Yellow .. "(/a)\n" ..
+        color.Yellow .. "/removepublicwarp ( warp name ) \n" ..
+            color.White .. "Play a certain speech on yourself, with a list of valid inputs being provided " ..
+            "if you use invalid ones " ..
+            color.Yellow .. "(/s)\n" ..
+        color.Yellow .. "/forcewarp ( target player's id) ( warp name (of a public warp) ) \n" ..
+            color.White .. "Open up a small crafting menu used as a scripting example\n" ..
+        color.Yellow .. "/jailwarp ( target player's id) (warp name (of a public warp) ) \n" ..
+            color.White .. "Get the list of available commands",
+    buttons = {
+        { caption = "Admin help",
+            displayConditions = {
+                menuHelper.conditions.requireStaffRank(2)
+            },
+            destinations = {
+                menuHelper.destinations.setDefault("help admin page 1")
+            }
+        },
+        { caption = "Moderator help",
+            displayConditions = {
+                menuHelper.conditions.requireStaffRank(1)
+            },
+            destinations = {
+                menuHelper.destinations.setDefault("help moderator page 1")
+            }
+        },
+        { caption = "Exit", destinations = nil }
+    }
+}

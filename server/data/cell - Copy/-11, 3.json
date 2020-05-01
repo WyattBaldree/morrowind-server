@@ -1,0 +1,35 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["465660-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1554611273,
+    "description":"-11, 3"
+  },
+  "lastVisit":{
+    "Den":1554611299
+  },
+  "recordLinks":[],
+  "objectData":{
+    "465660-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[]
+    }
+  }
+}

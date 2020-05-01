@@ -1,0 +1,32 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1554354096,
+    "description":"Sadrith Mora, Wolverine Hall"
+  },
+  "lastVisit":{
+    "DizzyDasher":1554860767,
+    "Den":1555638243,
+    "Fendryn":1555203579
+  },
+  "recordLinks":[],
+  "objectData":[]
+}

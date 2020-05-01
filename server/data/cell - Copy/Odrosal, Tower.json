@@ -1,0 +1,35 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":["261876-0"],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1558209319,
+    "description":"Odrosal, Tower"
+  },
+  "lastVisit":{
+    "Den":1558209342,
+    "Fendryn":1558209361
+  },
+  "recordLinks":[],
+  "objectData":{
+    "261876-0":{
+      "refId":"keening"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "packets":{
+    "actorList":["0-3148"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":["0-3148"],
+    "scale":[],
+    "spawn":["0-3148"],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1554779552,
+    "description":"21, -3"
+  },
+  "lastVisit":{
+    "Fendryn":1554779587
+  },
+  "recordLinks":[],
+  "objectData":{
+    "0-3148":{
+      "refId":"slaughterfish",
+      "location":{
+        "posX":172042.234375,
+        "posZ":-500.57690429688,
+        "posY":-23473.63671875,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":2.3635904788971
+      }
+    }
+  }
+}

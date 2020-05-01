@@ -1,0 +1,1416 @@
+{
+  "packets":{
+    "actorList":["0-135","0-3051","0-3052","0-3053","0-3054","0-3055","0-3056","0-3073","0-3074","0-3075","0-3078"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["299125-0","297457-0","297459-0","251518-0","251524-0","251533-0","251534-0","251538-0","251539-0","251543-0","251548-0","251549-0","251551-0","251552-0","251557-0","251574-0","251575-0","251577-0","251578-0","251583-0","251584-0","251600-0","251604-0","251625-0","251626-0","251627-0","251634-0","251643-0","251644-0","251648-0","251649-0","251650-0","251651-0","251652-0","251653-0","251656-0","251657-0","251658-0","251659-0","251662-0","251663-0","251664-0","266169-0","266170-0","266171-0","266172-0","341680-0","0-135","0-3051","0-3052","0-3053","0-3056","0-3055","0-3054","0-3074","0-3073","0-3075","0-3078"],
+    "death":["0-135","0-3051","0-3052","0-3053","0-3056","0-3055","0-3054","0-3074","0-3073","0-3075","0-3078"],
+    "delete":[],
+    "doorState":[],
+    "equipment":["0-3051","0-3052","0-3053","0-3055","0-3056","0-3073","0-3074"],
+    "lock":[],
+    "place":[],
+    "position":["0-135","0-3051","0-3052","0-3053","0-3054","0-3055","0-3056","0-3073","0-3074","0-3075","0-3078"],
+    "scale":[],
+    "spawn":["0-135","0-3051","0-3052","0-3053","0-3054","0-3055","0-3056","0-3073","0-3074","0-3075","0-3078"],
+    "state":["445155-0","445156-0","445157-0","445158-0","445159-0","445160-0","484252-0","484253-0","484480-0"],
+    "statsDynamic":["0-135","0-3051","0-3052","0-3053","0-3054","0-3055","0-3056","0-3073","0-3074","0-3075","0-3078"],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1554178112,
+    "description":"-1, -9"
+  },
+  "lastVisit":{
+    "DizzyDasher":1554779670,
+    "The Luch":1554179450,
+    "Den":1554869153,
+    "Fendryn":1555633322
+  },
+  "recordLinks":[],
+  "objectData":{
+    "251643-0":{
+      "refId":"flora_bc_shelffungus_02",
+      "inventory":[]
+    },
+    "445156-0":{
+      "refId":"chargencollision - extra",
+      "state":false
+    },
+    "251658-0":{
+      "refId":"flora_bc_shelffungus_01",
+      "inventory":[{
+          "refId":"ingred_bc_bungler's_bane",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-3073":{
+      "refId":"db_assassin3",
+      "location":{
+        "posX":-7633.1904296875,
+        "posZ":345.01425170898,
+        "posY":-69533.34375,
+        "rotX":-0.29115045070648,
+        "rotY":0,
+        "rotZ":-1.5283081531525
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":154,
+        "healthModified":141,
+        "fatigueBase":276,
+        "magickaModified":154,
+        "fatigueModified":276,
+        "healthBase":141,
+        "magickaBase":154,
+        "fatigueCurrent":253.08540344238
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":1095,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ebony dart_db_unique",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":1095,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Fendryn"
+      }
+    },
+    "266172-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[]
+    },
+    "251650-0":{
+      "refId":"flora_bc_mushroom_02",
+      "inventory":[{
+          "refId":"ingred_russula_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "251651-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[]
+    },
+    "251539-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[]
+    },
+    "0-3074":{
+      "refId":"db_assassin3",
+      "location":{
+        "posX":-7290.009765625,
+        "posZ":238.74252319336,
+        "posY":-69346.5625,
+        "rotX":-0.14811065793037,
+        "rotY":0,
+        "rotZ":-2.2754037380219
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":154,
+        "healthModified":141,
+        "fatigueBase":276,
+        "magickaModified":154,
+        "fatigueModified":276,
+        "healthBase":141,
+        "magickaBase":154,
+        "fatigueCurrent":269.49243164063
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":1097,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":1097,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Fendryn"
+      }
+    },
+    "251653-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[]
+    },
+    "266171-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[]
+    },
+    "341680-0":{
+      "refId":"flora_comberry_01",
+      "inventory":[]
+    },
+    "251578-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "251557-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[]
+    },
+    "251549-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[]
+    },
+    "251548-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[]
+    },
+    "251533-0":{
+      "refId":"flora_bc_shelffungus_02",
+      "inventory":[]
+    },
+    "0-3051":{
+      "refId":"db_assassin3",
+      "location":{
+        "posX":-6839.2431640625,
+        "posZ":68.457824707031,
+        "posY":-68276.953125,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":-2.0003025531769
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":154,
+        "healthModified":141,
+        "fatigueBase":276,
+        "magickaModified":154,
+        "fatigueModified":276,
+        "healthBase":141,
+        "magickaBase":154,
+        "fatigueCurrent":261.67367553711
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Fendryn"
+      }
+    },
+    "445155-0":{
+      "refId":"chargencollision - extra",
+      "state":false
+    },
+    "251538-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[]
+    },
+    "251574-0":{
+      "refId":"flora_bc_mushroom_03",
+      "inventory":[]
+    },
+    "0-3056":{
+      "refId":"db_assassin3",
+      "location":{
+        "posX":-3935.2158203125,
+        "posZ":403.53833007813,
+        "posY":-69295.890625,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":1.0989291667938
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":154,
+        "healthModified":141,
+        "fatigueBase":276,
+        "magickaModified":154,
+        "fatigueModified":276,
+        "healthBase":141,
+        "magickaBase":154,
+        "fatigueCurrent":260.73962402344
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ebony dart_db_unique",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Fendryn"
+      }
+    },
+    "297457-0":{
+      "refId":"chargen_crate_01",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":43,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "484253-0":{
+      "refId":"chargencollision - extra",
+      "state":false
+    },
+    "251626-0":{
+      "refId":"flora_bc_mushroom_05",
+      "inventory":[]
+    },
+    "251584-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "251575-0":{
+      "refId":"flora_bc_mushroom_01",
+      "inventory":[]
+    },
+    "251656-0":{
+      "refId":"flora_hackle-lo_01",
+      "inventory":[{
+          "refId":"ingred_hackle-lo_leaf_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "251662-0":{
+      "refId":"flora_bc_shelffungus_01",
+      "inventory":[]
+    },
+    "251551-0":{
+      "refId":"flora_bc_mushroom_02",
+      "inventory":[]
+    },
+    "0-3055":{
+      "refId":"db_assassin3",
+      "location":{
+        "posX":-4595.3974609375,
+        "posZ":331.92376708984,
+        "posY":-69006.8125,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":1.0989291667938
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":154,
+        "healthModified":141,
+        "fatigueBase":276,
+        "magickaModified":154,
+        "fatigueModified":276,
+        "healthBase":141,
+        "magickaBase":154,
+        "fatigueCurrent":260.6852722168
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ebony dart_db_unique",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Fendryn"
+      }
+    },
+    "251627-0":{
+      "refId":"flora_bc_mushroom_01",
+      "inventory":[]
+    },
+    "251657-0":{
+      "refId":"flora_bc_shelffungus_01",
+      "inventory":[{
+          "refId":"ingred_bc_bungler's_bane",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-135":{
+      "refId":"rat",
+      "location":{
+        "posX":-6956.802734375,
+        "posZ":201,
+        "posY":-67335.96875,
+        "rotX":-0.27008545398712,
+        "rotY":0,
+        "rotZ":2.9731261730194
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":10,
+        "healthModified":23,
+        "fatigueBase":300,
+        "magickaModified":10,
+        "fatigueModified":300,
+        "healthBase":23,
+        "magickaBase":10,
+        "fatigueCurrent":300
+      },
+      "inventory":[],
+      "killer":{
+        "player":"Fendryn"
+      }
+    },
+    "445160-0":{
+      "refId":"chargencollision - extra",
+      "state":false
+    },
+    "299125-0":{
+      "refId":"chargen_crate_02",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":43,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "251625-0":{
+      "refId":"flora_bc_mushroom_02",
+      "inventory":[]
+    },
+    "266169-0":{
+      "refId":"flora_bc_podplant_03",
+      "inventory":[]
+    },
+    "297459-0":{
+      "refId":"chargen_crate_01_empty",
+      "inventory":[]
+    },
+    "251648-0":{
+      "refId":"flora_bc_mushroom_01",
+      "inventory":[{
+          "refId":"ingred_russula_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "484480-0":{
+      "refId":"chargencollision - extra",
+      "state":false
+    },
+    "251524-0":{
+      "refId":"flora_bc_fern_01",
+      "inventory":[]
+    },
+    "251552-0":{
+      "refId":"flora_bc_mushroom_01",
+      "inventory":[]
+    },
+    "445157-0":{
+      "refId":"chargencollision - extra",
+      "state":false
+    },
+    "251663-0":{
+      "refId":"flora_bc_shelffungus_01",
+      "inventory":[]
+    },
+    "0-3052":{
+      "refId":"db_assassin3",
+      "location":{
+        "posX":-6782.0693359375,
+        "posZ":245.29159545898,
+        "posY":-67040.875,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":0.33366417884827
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":154,
+        "healthModified":141,
+        "fatigueBase":276,
+        "magickaModified":154,
+        "fatigueModified":276,
+        "healthBase":141,
+        "magickaBase":154,
+        "fatigueCurrent":263.23687744141
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ebony dart_db_unique",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":1099,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Fendryn"
+      }
+    },
+    "266170-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[]
+    },
+    "251644-0":{
+      "refId":"flora_bc_shelffungus_04",
+      "inventory":[]
+    },
+    "445159-0":{
+      "refId":"chargencollision - extra",
+      "state":false
+    },
+    "251652-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[]
+    },
+    "251577-0":{
+      "refId":"flora_bc_mushroom_04",
+      "inventory":[]
+    },
+    "251543-0":{
+      "refId":"flora_bc_mushroom_04",
+      "inventory":[]
+    },
+    "484252-0":{
+      "refId":"chargencollision - extra",
+      "state":false
+    },
+    "0-3075":{
+      "refId":"nix-hound",
+      "location":{
+        "posX":-7749.51953125,
+        "posZ":471.50088500977,
+        "posY":-69303.1171875,
+        "rotX":-0.055155213922262,
+        "rotY":0,
+        "rotZ":-1.8105275630951
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":10,
+        "healthModified":23,
+        "fatigueBase":400,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "healthBase":23,
+        "magickaBase":10,
+        "fatigueCurrent":394.27212524414
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Den"
+      }
+    },
+    "251518-0":{
+      "refId":"flora_bc_fern_01",
+      "inventory":[{
+          "refId":"ingred_bc_spore_pod",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "251634-0":{
+      "refId":"flora_bc_fern_01",
+      "inventory":[{
+          "refId":"ingred_bc_spore_pod",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "445158-0":{
+      "refId":"chargencollision - extra",
+      "state":false
+    },
+    "0-3078":{
+      "refId":"scrib",
+      "location":{
+        "posX":-6832.5947265625,
+        "posZ":141.56381225586,
+        "posY":-69461.8359375,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":1.4395749568939
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":12,
+        "healthModified":8,
+        "fatigueBase":300,
+        "magickaModified":12,
+        "fatigueModified":300,
+        "healthBase":8,
+        "magickaBase":12,
+        "fatigueCurrent":300
+      },
+      "inventory":[{
+          "refId":"ingred_scrib_jelly_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Fendryn"
+      }
+    },
+    "0-3054":{
+      "refId":"nix-hound",
+      "location":{
+        "posX":-4052.2592773438,
+        "posZ":427.22262573242,
+        "posY":-69521.234375,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":1.0989291667938
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":10,
+        "healthModified":23,
+        "fatigueBase":400,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "healthBase":23,
+        "magickaBase":10,
+        "fatigueCurrent":400
+      },
+      "inventory":[],
+      "killer":{
+        "player":"Fendryn"
+      }
+    },
+    "0-3053":{
+      "refId":"db_assassin3",
+      "location":{
+        "posX":-7152.0390625,
+        "posZ":189.60284423828,
+        "posY":-67549,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":0.33366417884827
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":154,
+        "healthModified":141,
+        "fatigueBase":276,
+        "magickaModified":154,
+        "fatigueModified":276,
+        "healthBase":141,
+        "magickaBase":154,
+        "fatigueCurrent":250.82553100586
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ebony dart_db_unique",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"daedric wakizashi",
+          "count":1,
+          "charge":1097,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Fendryn"
+      }
+    },
+    "251649-0":{
+      "refId":"flora_bc_mushroom_04",
+      "inventory":[{
+          "refId":"ingred_russula_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "251604-0":{
+      "refId":"flora_bc_shelffungus_02",
+      "inventory":[]
+    },
+    "251600-0":{
+      "refId":"flora_bc_shelffungus_03",
+      "inventory":[]
+    },
+    "251534-0":{
+      "refId":"flora_bc_shelffungus_04",
+      "inventory":[]
+    },
+    "251583-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "251659-0":{
+      "refId":"flora_bc_shelffungus_01",
+      "inventory":[{
+          "refId":"ingred_bc_bungler's_bane",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "251664-0":{
+      "refId":"flora_bc_shelffungus_01",
+      "inventory":[]
+    }
+  }
+}

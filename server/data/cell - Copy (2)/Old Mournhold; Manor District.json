@@ -1,0 +1,917 @@
+{
+  "packets":{
+    "actorList":["0-1263","0-1264","0-1265","0-1266","0-1267","0-1268","0-1269","0-1270","0-1271","0-1272","0-1273","0-1261"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["10435-0","10436-0","10437-0","10438-0","0-1272","0-1261","0-1271","0-1264","0-1266","0-1263","0-1265","0-1273"],
+    "death":["0-1272","0-1261","0-1271","0-1264","0-1266","0-1263","0-1265","0-1273"],
+    "delete":[],
+    "doorState":[],
+    "equipment":["0-1263","0-1264","0-1265","0-1266","0-1267","0-1268","0-1269","0-1270","0-1271","0-1272","0-1273"],
+    "lock":[],
+    "place":[],
+    "position":["0-1261","0-1263","0-1264","0-1265","0-1266","0-1267","0-1268","0-1269","0-1270","0-1271","0-1272","0-1273"],
+    "scale":[],
+    "spawn":["0-1263","0-1264","0-1265","0-1266","0-1267","0-1268","0-1269","0-1270","0-1271","0-1272","0-1273","0-1261"],
+    "state":[],
+    "statsDynamic":["0-1261","0-1263","0-1264","0-1265","0-1266","0-1267","0-1268","0-1269","0-1270","0-1271","0-1272","0-1273"],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1568864754,
+    "description":"Old Mournhold: Manor District"
+  },
+  "lastVisit":{
+    "whisker":1568865152,
+    "Tanis":1568865031
+  },
+  "recordLinks":[],
+  "objectData":{
+    "10438-0":{
+      "refId":"crate_01_empty",
+      "inventory":[]
+    },
+    "0-1263":{
+      "refId":"db_assassin1a",
+      "location":{
+        "posX":328.63079833984,
+        "posZ":849,
+        "posY":-244.76620483398,
+        "rotX":0.015276499092579,
+        "rotY":0,
+        "rotZ":-2.3433163166046
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":112,
+        "healthModified":61,
+        "fatigueBase":177,
+        "fatigueModified":177,
+        "healthBase":61,
+        "magickaModified":112,
+        "magickaBase":112,
+        "fatigueCurrent":117.83052825928
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":86,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":86,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":86,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":86,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Tanis"
+      }
+    },
+    "10437-0":{
+      "refId":"crate_01_empty",
+      "inventory":[]
+    },
+    "10436-0":{
+      "refId":"crate_01_de_weapons",
+      "inventory":[]
+    },
+    "0-1265":{
+      "refId":"db_assassin1c",
+      "location":{
+        "posX":356.84799194336,
+        "posZ":848.99987792969,
+        "posY":-224.21244812012,
+        "rotX":-0.76939272880554,
+        "rotY":0,
+        "rotZ":3.0489718914032
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":100,
+        "healthModified":40,
+        "fatigueBase":150,
+        "fatigueModified":150,
+        "healthBase":40,
+        "magickaModified":100,
+        "magickaBase":100,
+        "fatigueCurrent":109.846534729
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":292,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":243,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":243,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":243,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":243,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":292,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"silver dagger",
+          "count":1,
+          "charge":396,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Tanis"
+      }
+    },
+    "10435-0":{
+      "refId":"crate_01_de_fclothes",
+      "inventory":[{
+          "refId":"common_belt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_skirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_belt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1266":{
+      "refId":"db_assassin1a",
+      "location":{
+        "posX":259.39916992188,
+        "posZ":849,
+        "posY":-266.5315246582,
+        "rotX":-0.45741108059883,
+        "rotY":0,
+        "rotZ":1.3994958400726
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":112,
+        "healthModified":61,
+        "fatigueBase":177,
+        "fatigueModified":177,
+        "healthBase":61,
+        "magickaModified":112,
+        "magickaBase":112,
+        "fatigueCurrent":122.75477600098
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":228,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":225,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":193,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":193,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":228,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":225,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron viperblade",
+          "count":1,
+          "charge":594,
+          "enchantmentCharge":128,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Tanis"
+      }
+    },
+    "0-1273":{
+      "refId":"db_assassin1c",
+      "location":{
+        "posX":5520.34375,
+        "posZ":-712.69036865234,
+        "posY":3771.0439453125,
+        "rotX":-0.40514671802521,
+        "rotY":0,
+        "rotZ":0.83909058570862
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":100,
+        "healthModified":40,
+        "fatigueBase":150,
+        "fatigueModified":150,
+        "healthBase":40,
+        "magickaModified":100,
+        "magickaBase":100,
+        "fatigueCurrent":111.26602935791
+      },
+      "equipment":[],
+      "inventory":[],
+      "killer":{
+        "player":"whisker"
+      }
+    },
+    "0-1267":{
+      "refId":"db_assassin1a",
+      "location":{
+        "posX":7535.2578125,
+        "posZ":-146.42413330078,
+        "posY":917.32928466797,
+        "rotX":-0.011163726449013,
+        "rotY":0,
+        "rotZ":2.8675816059113
+      },
+      "stats":{
+        "healthCurrent":61,
+        "magickaCurrent":112,
+        "healthModified":61,
+        "fatigueBase":177,
+        "fatigueModified":177,
+        "healthBase":61,
+        "magickaModified":112,
+        "magickaBase":112,
+        "fatigueCurrent":177
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"iron viperblade",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      }
+    },
+    "0-1272":{
+      "refId":"db_assassin1c",
+      "location":{
+        "posX":1974.37109375,
+        "posZ":896.82513427734,
+        "posY":-1117.7547607422,
+        "rotX":0.29879534244537,
+        "rotY":0,
+        "rotZ":-0.0073966979980469
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":100,
+        "healthModified":40,
+        "fatigueBase":150,
+        "fatigueModified":150,
+        "healthBase":40,
+        "magickaModified":100,
+        "magickaBase":100,
+        "fatigueCurrent":149.32926940918
+      },
+      "equipment":{
+        "16":{
+          "refId":"silver dagger",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":87,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"silver dagger",
+          "count":1,
+          "charge":392,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"whisker"
+      }
+    },
+    "0-1261":{
+      "refId":"rat_pack_rerlas",
+      "location":{
+        "posX":2988.8098144531,
+        "posZ":786.95593261719,
+        "posY":-109.82870483398,
+        "rotX":0.069593846797943,
+        "rotY":0,
+        "rotZ":-0.28233122825623
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":10,
+        "healthModified":23,
+        "fatigueBase":300,
+        "fatigueModified":300,
+        "healthBase":23,
+        "magickaModified":10,
+        "magickaBase":10,
+        "fatigueCurrent":299.3723449707
+      },
+      "inventory":[],
+      "killer":{
+        "refId":"db_assassin1a",
+        "uniqueIndex":"0-1271"
+      }
+    },
+    "0-1268":{
+      "refId":"db_assassin1a",
+      "location":{
+        "posX":7532.1474609375,
+        "posZ":-151.58029174805,
+        "posY":1004.5938720703,
+        "rotX":-0.18750102818012,
+        "rotY":0,
+        "rotZ":-3.0136868953705
+      },
+      "stats":{
+        "healthCurrent":22.367607116699,
+        "magickaCurrent":112,
+        "healthModified":61,
+        "fatigueBase":177,
+        "fatigueModified":177,
+        "healthBase":61,
+        "magickaModified":112,
+        "magickaBase":112,
+        "fatigueCurrent":172.44296264648
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"iron viperblade",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      }
+    },
+    "0-1271":{
+      "refId":"db_assassin1a",
+      "location":{
+        "posX":3078.6049804688,
+        "posZ":837.23718261719,
+        "posY":-854.82543945313,
+        "rotX":0.16394270956516,
+        "rotY":0,
+        "rotZ":-0.056774377822876
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":112,
+        "healthModified":61,
+        "fatigueBase":177,
+        "fatigueModified":177,
+        "healthBase":61,
+        "magickaModified":112,
+        "magickaBase":112,
+        "fatigueCurrent":172.36889648438
+      },
+      "equipment":[],
+      "inventory":[],
+      "killer":{
+        "player":"Tanis"
+      }
+    },
+    "0-1269":{
+      "refId":"db_assassin1a",
+      "location":{
+        "posX":7002.734375,
+        "posZ":1429.8291015625,
+        "posY":-1313.8177490234,
+        "rotX":0.036352463066578,
+        "rotY":0,
+        "rotZ":3.0291655063629
+      },
+      "stats":{
+        "healthCurrent":61,
+        "magickaCurrent":112,
+        "healthModified":61,
+        "fatigueBase":177,
+        "fatigueModified":177,
+        "healthBase":61,
+        "magickaModified":112,
+        "magickaBase":112,
+        "fatigueCurrent":177
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"iron viperblade",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      }
+    },
+    "0-1270":{
+      "refId":"db_assassin1a",
+      "location":{
+        "posX":6955.7700195313,
+        "posZ":1429.8291015625,
+        "posY":-1352.3023681641,
+        "rotX":0.04052597284317,
+        "rotY":0,
+        "rotZ":2.0064289569855
+      },
+      "stats":{
+        "healthCurrent":61,
+        "magickaCurrent":112,
+        "healthModified":61,
+        "fatigueBase":177,
+        "fatigueModified":177,
+        "healthBase":61,
+        "magickaModified":112,
+        "magickaBase":112,
+        "fatigueCurrent":177
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"iron viperblade",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      }
+    },
+    "0-1264":{
+      "refId":"db_assassin1c",
+      "location":{
+        "posX":266.29119873047,
+        "posZ":855.65502929688,
+        "posY":-367.31964111328,
+        "rotX":0.02053464204073,
+        "rotY":0,
+        "rotZ":-2.0685436725616
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":100,
+        "healthModified":40,
+        "fatigueBase":150,
+        "fatigueModified":150,
+        "healthBase":40,
+        "magickaModified":100,
+        "magickaBase":100,
+        "fatigueCurrent":102.16548156738
+      },
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":230,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":187,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":187,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":230,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"silver dagger",
+          "count":1,
+          "charge":396,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "player":"Tanis"
+      }
+    }
+  }
+}

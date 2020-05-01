@@ -1,0 +1,57 @@
+{
+  "packets":{
+    "actorList":["381693-0"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["381693-0"],
+    "death":["381693-0"],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":["381693-0"],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":["381693-0"],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1554788831,
+    "description":"Kogoruhn, Dome of Urso"
+  },
+  "lastVisit":{
+    "Den":1554788862
+  },
+  "recordLinks":[],
+  "objectData":{
+    "381693-0":{
+      "refId":"dagoth reler",
+      "location":{
+        "posX":342.45031738281,
+        "posZ":128.89965820313,
+        "posY":64.544624328613,
+        "rotX":0.0320057682693,
+        "rotY":0,
+        "rotZ":-2.4786441326141
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":157,
+        "healthModified":280,
+        "fatigueBase":600,
+        "fatigueModified":600,
+        "healthBase":280,
+        "magickaModified":340,
+        "magickaBase":340,
+        "fatigueCurrent":599.91662597656
+      },
+      "inventory":[],
+      "killer":{
+        "player":"Den"
+      }
+    }
+  }
+}

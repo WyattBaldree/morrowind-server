@@ -1,0 +1,42 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["1976-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1587717321,
+    "description":"-1, -15"
+  },
+  "lastVisit":{
+    "Rick Harrison":1587717696,
+    "Jeff":1587717773
+  },
+  "recordLinks":[],
+  "objectData":{
+    "1976-0":{
+      "refId":"flora_wickwheat_02",
+      "inventory":[{
+          "refId":"ingred_wickwheat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    }
+  }
+}

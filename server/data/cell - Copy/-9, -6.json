@@ -1,0 +1,45 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["465288-0","465292-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1555633329,
+    "description":"-9, -6"
+  },
+  "lastVisit":{
+    "Fendryn":1555633367
+  },
+  "recordLinks":[],
+  "objectData":{
+    "465292-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[]
+    },
+    "465288-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    }
+  }
+}

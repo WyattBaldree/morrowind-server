@@ -1,0 +1,53 @@
+{
+  "packets":{
+    "actorList":["0-376"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":["0-376"],
+    "scale":[],
+    "spawn":["0-376"],
+    "state":[],
+    "statsDynamic":["0-376"],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1587716896,
+    "description":"-2, -12"
+  },
+  "lastVisit":{
+    "Rick Harrison":1587717321
+  },
+  "recordLinks":[],
+  "objectData":{
+    "0-376":{
+      "refId":"slaughterfish_small",
+      "location":{
+        "posX":-14829.159179688,
+        "posZ":-34.525398254395,
+        "posY":-98213.3125,
+        "rotX":-0.27883818745613,
+        "rotY":0,
+        "rotZ":-0.046692371368408
+      },
+      "stats":{
+        "healthCurrent":15,
+        "magickaCurrent":10,
+        "healthModified":15,
+        "fatigueBase":300,
+        "fatigueModified":300,
+        "healthBase":15,
+        "magickaModified":10,
+        "magickaBase":10,
+        "fatigueCurrent":279.55303955078
+      }
+    }
+  }
+}

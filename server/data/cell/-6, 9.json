@@ -1,0 +1,32 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1588222314,
+    "description":"-6, 9"
+  },
+  "lastVisit":{
+    "Jeff":1588223389,
+    "Spear":1588223340
+  },
+  "recordLinks":[],
+  "objectData":{
+  }
+}

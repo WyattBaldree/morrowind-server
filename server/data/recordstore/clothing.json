@@ -1,0 +1,143 @@
+{
+  "general":{
+    "currentGeneratedNum":25
+  },
+  "permanentRecords":[],
+  "generatedRecords":{
+    "$custom_clothing_2":{
+      "baseId":"expensive_shoes_02",
+      "name":"Slippers of Blinking",
+      "enchantmentCharge":20,
+      "enchantmentId":"$custom_enchantment_3"
+    },
+    "$custom_clothing_24":{
+      "baseId":"exquisite_pants_01",
+      "name":"Exquisite Pants Of Sanc",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_34"
+    },
+    "$custom_clothing_7":{
+      "baseId":"extravagant_belt_01",
+      "name":"Demon Sash",
+      "enchantmentCharge":30,
+      "enchantmentId":"$custom_enchantment_8"
+    },
+    "$custom_clothing_21":{
+      "baseId":"exquisite_ring_01",
+      "name":"Healing Ring",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_28"
+    },
+    "$custom_clothing_18":{
+      "baseId":"exquisite_ring_01",
+      "name":"Intel Ring",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_22"
+    },
+    "$custom_clothing_14":{
+      "baseId":"extravagant_amulet_02",
+      "name":"Dodging Amulet",
+      "enchantmentCharge":138,
+      "enchantmentId":"$custom_enchantment_15"
+    },
+    "$custom_clothing_19":{
+      "baseId":"exquisite_amulet_01",
+      "name":"Amulet Of Crowd Facing",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_25"
+    },
+    "$custom_clothing_15":{
+      "baseId":"exquisite_ring_02",
+      "name":"Intel Ring",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_16"
+    },
+    "$custom_clothing_20":{
+      "baseId":"exquisite_amulet_01",
+      "name":"Sanctuary Amulet",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_27"
+    },
+    "$custom_clothing_23":{
+      "baseId":"exquisite_shirt_01",
+      "name":"Exquisite Shirt Of Strength",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_33"
+    },
+    "$custom_clothing_25":{
+      "baseId":"exquisite_shoes_01",
+      "name":"Exquisite Shielding Shoes",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_35"
+    },
+    "$custom_clothing_1":{
+      "baseId":"extravagant_amulet_02",
+      "name":"Extravagant Ruby Amulet",
+      "enchantmentCharge":10,
+      "enchantmentId":"$custom_enchantment_1"
+    },
+    "$custom_clothing_22":{
+      "baseId":"exquisite_ring_02",
+      "name":"Sanctuary Ring",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_29"
+    }
+  },
+  "recordLinks":{
+    "$custom_clothing_15":{
+      "players":[],
+      "cells":["Balmora, Hlaalo Manor"]
+    },
+    "$custom_clothing_24":{
+      "players":[],
+      "cells":["Balmora, Hlaalo Manor"]
+    },
+    "$custom_clothing_7":{
+      "players":[],
+      "cells":["Balmora, Dura gra-Bol's House"]
+    },
+    "$custom_clothing_21":{
+      "players":["Dr,Kups"],
+      "cells":[]
+    },
+    "$custom_clothing_18":{
+      "players":[],
+      "cells":["Balmora, Hlaalo Manor"]
+    },
+    "$custom_clothing_1":{
+      "players":[],
+      "cells":["Balmora, Dura gra-Bol's House"]
+    },
+    "$custom_clothing_14":{
+      "players":[],
+      "cells":["Balmora, Hlaalo Manor"]
+    },
+    "$custom_clothing_23":{
+      "players":["Deniella"],
+      "cells":[]
+    },
+    "$custom_clothing_19":{
+      "players":[],
+      "cells":["Balmora, Hlaalo Manor"]
+    },
+    "$custom_clothing_20":{
+      "players":["Dr,Kups"],
+      "cells":[]
+    },
+    "$custom_clothing_16":{
+      "players":["Tanis"]
+    },
+    "$custom_clothing_25":{
+      "players":["Bizz"],
+      "cells":[]
+    },
+    "$custom_clothing_2":{
+      "players":[],
+      "cells":["Balmora, Dura gra-Bol's House"]
+    },
+    "$custom_clothing_22":{
+      "players":["Dr,Kups"],
+      "cells":[]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["318202-0","318206-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1569211660,
+    "description":"Unexplored Shipwreck, Upper Level"
+  },
+  "lastVisit":{
+    "Tanis":1569211704
+  },
+  "recordLinks":[],
+  "objectData":{
+    "318202-0":{
+      "refId":"barrel_02_floater",
+      "inventory":[]
+    },
+    "318206-0":{
+      "refId":"crate_de_moonsugar",
+      "inventory":[{
+          "refId":"ingred_moon_sugar_01",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    }
+  }
+}

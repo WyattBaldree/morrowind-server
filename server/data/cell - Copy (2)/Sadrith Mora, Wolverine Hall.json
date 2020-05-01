@@ -1,0 +1,31 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1568703962,
+    "description":"Sadrith Mora, Wolverine Hall"
+  },
+  "lastVisit":{
+    "Dizzy":1568869962,
+    "Tanis":1569297246
+  },
+  "recordLinks":[],
+  "objectData":[]
+}

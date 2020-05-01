@@ -1,0 +1,41 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["318016-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1554611258,
+    "description":"Neglected Shipwreck, Cabin"
+  },
+  "lastVisit":{
+    "Den":1554611273
+  },
+  "recordLinks":[],
+  "objectData":{
+    "318016-0":{
+      "refId":"chest_small_02_ingredie",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    }
+  }
+}

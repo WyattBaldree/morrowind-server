@@ -1,0 +1,398 @@
+{
+  "packets":{
+    "actorList":["259458-0","287792-0","295994-0"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["259458-0","287792-0","295994-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":["259458-0","287792-0","295994-0"],
+    "lock":[],
+    "place":[],
+    "position":["259458-0","287792-0","295994-0"],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":["259458-0","287792-0","295994-0"],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1587853835,
+    "description":"3, -13"
+  },
+  "lastVisit":{
+    "Rick Harrison":1587854354,
+    "Jeff":1588220903
+  },
+  "recordLinks":[],
+  "objectData":{
+    "287792-0":{
+      "refId":"ordinator_high fane",
+      "location":{
+        "posX":32132.33984375,
+        "posZ":1055,
+        "posY":-99644.015625,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":0
+      },
+      "stats":{
+        "healthCurrent":231,
+        "magickaCurrent":128,
+        "healthModified":231,
+        "fatigueBase":321,
+        "fatigueModified":321,
+        "healthBase":231,
+        "magickaModified":128,
+        "magickaBase":128,
+        "fatigueCurrent":321
+      },
+      "equipment":{
+        "0":{
+          "refId":"indoril helmet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"silver claymore",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "17":{
+          "refId":"indoril shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"indoril shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril helmet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_glove_left_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_glove_right_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"silver claymore",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "259458-0":{
+      "refId":"talsi uvayn",
+      "location":{
+        "posX":30770.4140625,
+        "posZ":577.00006103516,
+        "posY":-99645.9453125,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":-0.40556836128235
+      },
+      "stats":{
+        "healthCurrent":54,
+        "magickaCurrent":86,
+        "healthModified":54,
+        "fatigueBase":165,
+        "fatigueModified":165,
+        "healthBase":54,
+        "magickaModified":86,
+        "magickaBase":86,
+        "fatigueCurrent":165
+      },
+      "equipment":{
+        "0":{
+          "refId":"gondolier_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_gondolier",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"steel dagger",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"common_pants_03_c",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"gondolier_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_gondolier",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_03_c",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel dagger",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "295994-0":{
+      "refId":"alvela saram",
+      "location":{
+        "posX":31763.87109375,
+        "posZ":3314.8232421875,
+        "posY":-101349.28125,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":2.5831851959229
+      },
+      "stats":{
+        "healthCurrent":170,
+        "magickaCurrent":120,
+        "healthModified":170,
+        "fatigueBase":304,
+        "fatigueModified":304,
+        "healthBase":170,
+        "magickaModified":120,
+        "magickaBase":120,
+        "fatigueCurrent":304
+      },
+      "equipment":[{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,{
+          "refId":"common_pants_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,null,null,null,null,null,{
+          "refId":"shockbite mace",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }],
+      "inventory":[{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ministry_truth_ext",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"shockbite mace",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    }
+  }
+}

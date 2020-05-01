@@ -1,0 +1,41 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["376034-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1555205697,
+    "description":"9, -6"
+  },
+  "lastVisit":{
+    "Fendryn":1555205713
+  },
+  "recordLinks":[],
+  "objectData":{
+    "376034-0":{
+      "refId":"contain_trama_shrub_04",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    }
+  }
+}

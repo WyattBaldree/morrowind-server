@@ -1,0 +1,56 @@
+{
+  "packets":{
+    "actorList":["0-3270"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["0-3270"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":["0-3270"],
+    "scale":[],
+    "spawn":["0-3270"],
+    "state":[],
+    "statsDynamic":["0-3270"],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1568699513,
+    "description":"-4, 1"
+  },
+  "lastVisit":{
+    "whisker":1568700574,
+    "Tanis":1569265184,
+    "Dizzy":1569189737
+  },
+  "recordLinks":[],
+  "objectData":{
+    "0-3270":{
+      "refId":"cliff racer_blighted",
+      "location":{
+        "posX":-28464.578125,
+        "posZ":2615.2585449219,
+        "posY":13146.516601563,
+        "rotX":0.54207289218903,
+        "rotY":0,
+        "rotZ":-1.6815631389618
+      },
+      "stats":{
+        "healthCurrent":90,
+        "magickaCurrent":20,
+        "healthModified":90,
+        "fatigueBase":400,
+        "fatigueModified":400,
+        "healthBase":90,
+        "magickaModified":20,
+        "magickaBase":20,
+        "fatigueCurrent":400
+      },
+      "inventory":[]
+    }
+  }
+}

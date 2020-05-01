@@ -1,0 +1,40 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":["360773-0","344985-0"],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1588223564,
+    "description":"Maar Gan, Andus Tradehouse"
+  },
+  "lastVisit":{
+    "Jeff":1588223633,
+    "Spear":1588223884
+  },
+  "recordLinks":[],
+  "objectData":{
+    "360773-0":{
+      "refId":"rent_maargan_andus_door",
+      "doorState":1
+    },
+    "344985-0":{
+      "refId":"in_r_s_door_01",
+      "doorState":1
+    }
+  }
+}

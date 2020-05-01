@@ -1,0 +1,202 @@
+{
+  "packets":{
+    "actorList":["0-1165","0-1166","14571-0"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["14571-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":["14571-0"],
+    "lock":[],
+    "place":[],
+    "position":["14571-0","0-1165","0-1166"],
+    "scale":[],
+    "spawn":["0-1165","0-1166"],
+    "state":[],
+    "statsDynamic":["14571-0","0-1165","0-1166"],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1568773480,
+    "description":"-27, 22"
+  },
+  "lastVisit":{
+    "Tanis":1568773786
+  },
+  "recordLinks":[],
+  "objectData":{
+    "14571-0":{
+      "refId":"thormoor gray-wave",
+      "location":{
+        "posX":-217828.703125,
+        "posZ":917.68505859375,
+        "posY":187222.5,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":4.4831867218018
+      },
+      "stats":{
+        "healthCurrent":141,
+        "magickaCurrent":122,
+        "healthModified":141,
+        "fatigueBase":1,
+        "fatigueModified":1,
+        "healthBase":141,
+        "magickaModified":122,
+        "magickaBase":122,
+        "fatigueCurrent":1
+      },
+      "equipment":{
+        "0":{
+          "refId":"bm wolf helmet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"bm wolf cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"bm wolf greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"bm wolf left pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"bm wolf right pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"bm wolf left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"bm wolf right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"bm wolf boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"bm wolf right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bm wolf left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bm wolf boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bm wolf greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bm wolf right pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bm wolf left pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bm wolf cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bm wolf helmet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"light_com_lantern_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1165":{
+      "refId":"bm_bear_brown",
+      "location":{
+        "posX":-213888,
+        "posZ":605.12506103516,
+        "posY":184192,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":0
+      },
+      "stats":{
+        "healthCurrent":180,
+        "magickaCurrent":50,
+        "healthModified":180,
+        "fatigueBase":260,
+        "fatigueModified":260,
+        "healthBase":180,
+        "magickaModified":50,
+        "magickaBase":50,
+        "fatigueCurrent":260
+      }
+    },
+    "0-1166":{
+      "refId":"bm_horker_large",
+      "location":{
+        "posX":-220245.609375,
+        "posZ":-205.96221923828,
+        "posY":186991.65625,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":0
+      },
+      "stats":{
+        "healthCurrent":100,
+        "magickaCurrent":50,
+        "healthModified":100,
+        "fatigueBase":500,
+        "fatigueModified":500,
+        "healthBase":100,
+        "magickaModified":50,
+        "magickaBase":50,
+        "fatigueCurrent":499.5
+      }
+    }
+  }
+}

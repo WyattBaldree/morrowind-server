@@ -1,0 +1,41 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["392236-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1569091184,
+    "description":"14, -4"
+  },
+  "lastVisit":{
+    "Dizzy":1569453522
+  },
+  "recordLinks":[],
+  "objectData":{
+    "392236-0":{
+      "refId":"contain_trama_shrub_02",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    }
+  }
+}

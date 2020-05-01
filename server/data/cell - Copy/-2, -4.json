@@ -1,0 +1,61 @@
+{
+  "packets":{
+    "actorList":["0-1052"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["0-1052"],
+    "death":["0-1052"],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":["0-1052"],
+    "scale":[],
+    "spawn":["0-1052"],
+    "state":[],
+    "statsDynamic":["0-1052"],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1554174407,
+    "description":"-2, -4"
+  },
+  "lastVisit":{
+    "the luch":1555383857,
+    "The Luch":1554180343,
+    "Fendryn":1556254607,
+    "Den":1556254626,
+    "DizzyDasher":1558209546
+  },
+  "recordLinks":[],
+  "objectData":{
+    "0-1052":{
+      "refId":"scrib diseased",
+      "location":{
+        "posX":-13975.022460938,
+        "posZ":487.22546386719,
+        "posY":-31805.30078125,
+        "rotX":-0.18815103173256,
+        "rotY":0,
+        "rotZ":-1.7805035114288
+      },
+      "stats":{
+        "healthCurrent":0,
+        "magickaCurrent":12,
+        "healthModified":8,
+        "fatigueBase":90,
+        "fatigueModified":90,
+        "healthBase":8,
+        "magickaModified":12,
+        "magickaBase":12,
+        "fatigueCurrent":90
+      },
+      "inventory":[],
+      "killer":{
+        "player":"Fendryn"
+      }
+    }
+  }
+}

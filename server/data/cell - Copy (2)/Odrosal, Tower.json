@@ -1,0 +1,35 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":["261876-0"],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1569610096,
+    "description":"Odrosal, Tower"
+  },
+  "lastVisit":{
+    "Dizzy":1569610175,
+    "Dr,Kups":1569610186
+  },
+  "recordLinks":[],
+  "objectData":{
+    "261876-0":{
+      "refId":"keening"
+    }
+  }
+}

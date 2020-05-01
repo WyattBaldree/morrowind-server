@@ -1,0 +1,58 @@
+{
+  "packets":{
+    "actorList":["0-123"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":["0-123"],
+    "scale":[],
+    "spawn":["0-123"],
+    "state":[],
+    "statsDynamic":["0-123"],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1577768057,
+    "description":"-3, 0"
+  },
+  "lastVisit":{
+    "orphanedgodzilla":1577772204,
+    "Jeff":1588222032,
+    "Spear":1588222009,
+    "Bizz":1587849023,
+    "Rick Harrison":1587848818,
+    "Deniella":1577772230
+  },
+  "recordLinks":[],
+  "objectData":{
+    "0-123":{
+      "refId":"cliff racer",
+      "location":{
+        "posX":-16388.92578125,
+        "posZ":7215.4775390625,
+        "posY":7927.255859375,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":-0.18180298805237
+      },
+      "stats":{
+        "healthCurrent":45,
+        "magickaCurrent":20,
+        "healthModified":45,
+        "fatigueBase":400,
+        "fatigueModified":400,
+        "healthBase":45,
+        "magickaModified":20,
+        "magickaBase":20,
+        "fatigueCurrent":400
+      }
+    }
+  }
+}

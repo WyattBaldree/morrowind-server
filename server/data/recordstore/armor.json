@@ -1,0 +1,126 @@
+{
+  "general":{
+    "currentGeneratedNum":12
+  },
+  "permanentRecords":[],
+  "generatedRecords":{
+    "$custom_armor_8":{
+      "baseId":"ebony_boots",
+      "name":"FASTER!!! Boots",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_36"
+    },
+    "$custom_armor_5":{
+      "baseId":"ebony_cuirass",
+      "name":"Cuirass Of The Carrier",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_26"
+    },
+    "$custom_armor_6":{
+      "baseId":"daedric_fountain_helm",
+      "name":"Daedric Face of Yag",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_31"
+    },
+    "$custom_armor_3":{
+      "baseId":"daedric_greaves",
+      "name":"Greaves Of The Healer",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_23"
+    },
+    "$custom_armor_7":{
+      "baseId":"daedric_gauntlet_left",
+      "name":"Daedric Gauntlet Of Strong Ass Healing",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_32"
+    },
+    "$custom_armor_4":{
+      "baseId":"daedric_towershield",
+      "name":"Vivec Breaker",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_24"
+    },
+    "$custom_armor_10":{
+      "baseId":"ebony_closed_helm",
+      "name":"Lucky Helm",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_38"
+    },
+    "$custom_armor_1":{
+      "baseId":"dreugh_helm",
+      "name":"Helm of the Crab",
+      "enchantmentCharge":30,
+      "enchantmentId":"$custom_enchantment_2"
+    },
+    "$custom_armor_9":{
+      "baseId":"daedric_gauntlet_right",
+      "name":"Dizzy Right Gauntlet",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_37"
+    },
+    "$custom_armor_2":{
+      "baseId":"ebony_shield",
+      "name":"Ebony Shield",
+      "enchantmentCharge":200,
+      "enchantmentId":"$custom_enchantment_20"
+    },
+    "$custom_armor_12":{
+      "baseId":"ebony_pauldron_left",
+      "name":"Ebony Left Pauldron Of Striking",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_40"
+    },
+    "$custom_armor_11":{
+      "baseId":"ebony_pauldron_right",
+      "name":"Ebony Right Pauldron Of Strength",
+      "enchantmentCharge":400,
+      "enchantmentId":"$custom_enchantment_39"
+    }
+  },
+  "recordLinks":{
+    "$custom_armor_8":{
+      "players":["DizzyDasher"]
+    },
+    "$custom_armor_5":{
+      "players":["DizzyDasher"],
+      "cells":[]
+    },
+    "$custom_armor_6":{
+      "players":["Dr,Kups"],
+      "cells":[]
+    },
+    "$custom_armor_3":{
+      "players":["DizzyDasher"],
+      "cells":[]
+    },
+    "$custom_armor_7":{
+      "players":["DizzyDasher"],
+      "cells":[]
+    },
+    "$custom_armor_4":{
+      "players":[],
+      "cells":["Balmora, Hlaalo Manor"]
+    },
+    "$custom_armor_10":{
+      "players":["DizzyDasher"],
+      "cells":[]
+    },
+    "$custom_armor_1":{
+      "players":[],
+      "cells":["Balmora, Dura gra-Bol's House"]
+    },
+    "$custom_armor_9":{
+      "players":["DizzyDasher"]
+    },
+    "$custom_armor_2":{
+      "players":[],
+      "cells":["Balmora, Hlaalo Manor"]
+    },
+    "$custom_armor_12":{
+      "players":["DizzyDasher"]
+    },
+    "$custom_armor_11":{
+      "players":["DizzyDasher"]
+    }
+  }
+}

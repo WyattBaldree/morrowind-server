@@ -1,0 +1,43 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["438222-0","438225-0","438226-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1555634856,
+    "description":"13, 20"
+  },
+  "lastVisit":{
+    "Fendryn":1555635799
+  },
+  "recordLinks":[],
+  "objectData":{
+    "438226-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[]
+    },
+    "438225-0":{
+      "refId":"kollop_01_pearl",
+      "inventory":[]
+    },
+    "438222-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[]
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "packets":{
+    "actorList":["0-212"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":["0-212"],
+    "scale":[],
+    "spawn":["0-212"],
+    "state":[],
+    "statsDynamic":["0-212"],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1587714655,
+    "description":"0, 2"
+  },
+  "lastVisit":{
+    "Jeff":1587715418
+  },
+  "recordLinks":[],
+  "objectData":{
+    "0-212":{
+      "refId":"kwama forager",
+      "location":{
+        "posX":5965.3974609375,
+        "posZ":1768.5587158203,
+        "posY":22534.7734375,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":3.6831862926483
+      },
+      "stats":{
+        "healthCurrent":23,
+        "magickaCurrent":15,
+        "healthModified":23,
+        "fatigueBase":300,
+        "fatigueModified":300,
+        "healthBase":23,
+        "magickaModified":15,
+        "magickaBase":15,
+        "fatigueCurrent":300
+      }
+    }
+  }
+}

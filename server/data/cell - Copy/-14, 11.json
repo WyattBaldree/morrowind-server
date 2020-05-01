@@ -1,0 +1,42 @@
+{
+  "packets":{
+    "actorList":["0-1237"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":["0-1237"],
+    "scale":[],
+    "spawn":["0-1237"],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1554528499,
+    "description":"-14, 11"
+  },
+  "lastVisit":{
+    "Den":1554528507
+  },
+  "recordLinks":[],
+  "objectData":{
+    "0-1237":{
+      "refId":"slaughterfish",
+      "location":{
+        "posX":-106501.7734375,
+        "posZ":-199.01344299316,
+        "posY":94478.46875,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":-2.7693288326263
+      }
+    }
+  }
+}

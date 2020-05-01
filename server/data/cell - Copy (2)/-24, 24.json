@@ -1,0 +1,32 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[]
+  },
+  "entry":{
+    "creationTime":1568922282,
+    "description":"-24, 24"
+  },
+  "lastVisit":{
+    "Dizzy":1568922946,
+    "Tanis":1568940740,
+    "Dr,Kups":1568922947
+  },
+  "recordLinks":[],
+  "objectData":[]
+}
