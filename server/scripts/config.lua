@@ -131,7 +131,7 @@ config.allowSuicideCommand = true
 config.allowFixmeCommand = true
 
 -- How many seconds need to pass between uses of the /fixme command by a player
-config.fixmeInterval = 30
+config.fixmeInterval = 15
 
 -- The colors used for different ranks on the server
 config.rankColors = { serverOwner = color.Orange, admin = color.Red, moderator = color.Green }
